@@ -1,4 +1,3 @@
-# <Xiao Shan shanx015>
 # I understand this is a graded, individual examination that may not be
 # discussed with anyone. I also understand that obtaining solutions or
 # partial solutions from outside sources, or discussing
